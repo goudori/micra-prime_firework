@@ -1,0 +1,4 @@
+name: Second_micra
+version: '${version}'
+main: plugin.second_micra.Main
+api-version: '1.20'
